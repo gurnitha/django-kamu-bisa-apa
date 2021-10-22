@@ -61,3 +61,15 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   apps/profiles/templates/profiles/profile_list.html
         modified:   apps/profiles/urls.py
         modified:   apps/profiles/views.py
+
+
+
+### 4. TEMPLATES DAN STATIC FILES
+### ---------------------------------------------------------------
+
+
+#### 4.1 Menambahkan template theme pada halaman profile_list dan profile_detail
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_detail.html
+        modified:   apps/profiles/templates/profiles/profile_list.html
