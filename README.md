@@ -102,4 +102,17 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   README.md
         modified:   apps/profiles/templates/profiles/profile_list.html
 
+        
+### 5. MODELS UNTUK PROFILES
+### ---------------------------------------------------------------
 
+
+#### 5.1 Membuat model Profil and Skill, migrasi dan register model pada admin
+
+        modified:   README.md
+        modified:   apps/profiles/admin.py
+        new file:   apps/profiles/migrations/0001_initial.py
+        new file:   apps/profiles/migrations/0002_auto_20211022_2118.py
+        modified:   apps/profiles/models.py
+        new file:   profiles/ing.PNG
+        new file:   static/profiles/user-default.png
