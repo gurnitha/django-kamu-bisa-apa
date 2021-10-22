@@ -96,3 +96,10 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         new file:   templates/base.html
         new file:   templates/shared/header.html
 
+
+#### 4.4 Modifikasi halaman profile_list
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_list.html
+
+
