@@ -125,3 +125,14 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   core/urls.py
         renamed:    profiles/ing.PNG -> static/images/profiles/ing.PNG
         renamed:    static/profiles/user-default.png -> static/images/profiles/user-default.png
+
+
+### 6. RETRIEVE DAN DISPLAY DATA PROFIL DAN SKILL
+### ---------------------------------------------------------------
+
+
+#### 6.1 Menampilkan profil data pada halaman profile_list 
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_list.html
+        modified:   apps/profiles/views.py
