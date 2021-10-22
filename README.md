@@ -85,3 +85,14 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         ...
         new file:   static/assets/images/DevSearch Projects.jpg
         new file:   static/assets/images/Devsearch Home.jpg
+
+
+#### 4.3 Template inheritance and include
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_detail.html
+        modified:   apps/profiles/templates/profiles/profile_list.html
+        modified:   core/settings.py
+        new file:   templates/base.html
+        new file:   templates/shared/header.html
+
