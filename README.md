@@ -116,3 +116,12 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   apps/profiles/models.py
         new file:   profiles/ing.PNG
         new file:   static/profiles/user-default.png
+
+
+#### 5.2 Membuat path dan folder untuk media files
+
+        modified:   README.md
+        modified:   core/settings.py
+        modified:   core/urls.py
+        renamed:    profiles/ing.PNG -> static/images/profiles/ing.PNG
+        renamed:    static/profiles/user-default.png -> static/images/profiles/user-default.png
