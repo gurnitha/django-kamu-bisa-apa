@@ -136,3 +136,12 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   README.md
         modified:   apps/profiles/templates/profiles/profile_list.html
         modified:   apps/profiles/views.py
+
+
+#### 6.2 Menampilkan skill data pada halaman profile_list 
+
+        modified:   README.md
+        new file:   apps/profiles/migrations/0003_rename_nama_skill_skill_skill.py
+        modified:   apps/profiles/models.py
+        modified:   apps/profiles/templates/profiles/profile_list.html
+        modified:   apps/profiles/views.py

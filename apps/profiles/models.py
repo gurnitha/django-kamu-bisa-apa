@@ -47,7 +47,7 @@ class Skill(models.Model):
 		blank=True,
 		null=True,
 		help_text='Field ini boleh dikosongkan.') 
-	nama_skill = models.CharField(
+	skill = models.CharField(
 		max_length=50,
 		blank=True,
 		null=True,
@@ -56,4 +56,4 @@ class Skill(models.Model):
 	diupdate = models.DateTimeField(auto_now=True)
 
 	def __str__(self):
-		return self.nama_skill
+		return self.skill
