@@ -30,3 +30,17 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         new file:   core/urls.py
         new file:   core/wsgi.py
         new file:   manage.py
+
+
+
+### 3. MEMBUAT HALAMAN profile_list dan profile_detail
+### ---------------------------------------------------------------
+
+
+#### 3.1 Membuat halaman profile_list
+
+        modified:   README.md
+        new file:   apps/profiles/templates/profiles/profile_list.html
+        new file:   apps/profiles/urls.py
+        modified:   apps/profiles/views.py
+        modified:   core/urls.py
