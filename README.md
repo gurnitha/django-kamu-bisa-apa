@@ -73,3 +73,15 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         modified:   README.md
         modified:   apps/profiles/templates/profiles/profile_detail.html
         modified:   apps/profiles/templates/profiles/profile_list.html
+
+
+#### 4.2 Menambahkan dan mengunggah static files
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_detail.html
+        modified:   apps/profiles/templates/profiles/profile_list.html
+        modified:   core/settings.py
+        modified:   core/urls.py
+        ...
+        new file:   static/assets/images/DevSearch Projects.jpg
+        new file:   static/assets/images/Devsearch Home.jpg
