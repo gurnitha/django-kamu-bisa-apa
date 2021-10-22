@@ -52,3 +52,12 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         new file:   apps/profiles/templates/profiles/profile_detail.html
         modified:   apps/profiles/urls.py
         modified:   apps/profiles/views.py
+
+
+#### 3.3 Menghubungkan halaman profile_list dan profile_detail
+
+        modified:   README.md
+        modified:   apps/profiles/templates/profiles/profile_detail.html
+        modified:   apps/profiles/templates/profiles/profile_list.html
+        modified:   apps/profiles/urls.py
+        modified:   apps/profiles/views.py

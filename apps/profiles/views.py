@@ -10,5 +10,5 @@ def profile_list(request):
 
 
 # profile_detail view
-def profile_detail(request, pk):
+def profile_detail(request):
 	return render(request, 'profiles/profile_detail.html')
