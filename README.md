@@ -44,3 +44,11 @@ Membuat aplikasi sebagai wadah untuk orang2 Indonesia yang kreatif
         new file:   apps/profiles/urls.py
         modified:   apps/profiles/views.py
         modified:   core/urls.py
+
+
+#### 3.2 Membuat halaman profile_detail
+
+        modified:   README.md
+        new file:   apps/profiles/templates/profiles/profile_detail.html
+        modified:   apps/profiles/urls.py
+        modified:   apps/profiles/views.py
